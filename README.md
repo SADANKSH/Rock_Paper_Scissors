@@ -12,6 +12,9 @@ A modern, minimalistic implementation of the classic Rock Paper Scissors game us
 - 🏆 Score tracking to keep count of wins
 - 🔄 Instant feedback on game results
 
+## Live Demo
+
+[Live Demo of the Game](css/images/Live-Demo.mp4)
 ## How to Play
 
 1. Click on one of the three choices: Rock, Paper, or Scissors
