@@ -2,7 +2,7 @@
 
 A modern, minimalistic implementation of the classic Rock Paper Scissors game using HTML, CSS, and JavaScript. This game allows players to play against the computer with a clean, responsive interface.
 
-![Rock Paper Scissors Game](images/game-preview.png)
+![Rock Paper Scissors Game](css/images/game-preview.png)
 
 ## Features
 
@@ -11,10 +11,6 @@ A modern, minimalistic implementation of the classic Rock Paper Scissors game us
 - 📱 Fully responsive layout that works on all devices
 - 🏆 Score tracking to keep count of wins
 - 🔄 Instant feedback on game results
-
-## Live Demo
-
-You can play the game here: [Rock Paper Scissors Game Demo](#) (Add your demo link when deployed)
 
 ## How to Play
 
